@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on full stack web development 
+- 🌱 I’m currently learning  computer science 
+- 👯 I’m looking to collaborate on  front end
 
 <!--
 **tola24234/tola24234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
