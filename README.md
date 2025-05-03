@@ -1,4 +1,9 @@
 ## Hi there 👋
+Tola Feyisa  Haramaya University Computer Science student 
+Full-stack developer skilled in Python, JavaScript, Java, and C++ 
+Building clean, scalable, user-friendly web solutions.
+
+
 - 🔭 I’m currently working on full stack web development 
 - 🌱 I’m currently learning  computer science 
 - 👯 I’m looking to collaborate on  front end
