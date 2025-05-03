@@ -4,14 +4,11 @@ Full-stack developer skilled in Python, JavaScript, Java, and C++
 Building clean, scalable, user-friendly web solutions.
 
 
-- 🔭 I’m currently working on full stack web development 
+- 🔭 I’m currently working on full stack web development for individual personal and on different platforms 
 - 🌱 I’m currently learning  computer science 
-- 👯 I’m looking to collaborate on  front end
-
-<!--
-**tola24234/tola24234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 👯  "I'm looking to collaborate on the best way to implement server-side rendering in a React application.-
+-  I'd like to collaborate on how to optimize website performance for mobile devices."
+ send me ideas to  tolaf3364@gmail.com
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
