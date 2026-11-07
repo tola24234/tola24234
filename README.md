@@ -16,26 +16,28 @@
 
 ---
 
-## Professional Profile
+## 👨‍💻 About Me
 
-I am a Computer Science student at **Haramaya University** with a strong interest in cybersecurity, software engineering, and secure application development.
+I am a Computer Science student at **Haramaya University**, passionate about cybersecurity, software engineering, and full-stack application development.
 
-My technical interests focus on building practical security solutions, analyzing system and application behavior, developing backend services, and creating modern web applications.
+I enjoy designing and developing practical software solutions, exploring cybersecurity technologies, and building applications that address real-world technical challenges.
 
-I enjoy combining programming and cybersecurity concepts to develop tools that address real-world technical challenges. I am continuously expanding my knowledge through hands-on projects, authorized security testing, and practical software development.
+My interests span security monitoring, threat detection, vulnerability assessment, backend engineering, database management, and modern web development.
 
-My long-term goal is to grow into a **Cybersecurity and Software Engineering professional**, specializing in security monitoring, threat detection, secure systems, and backend infrastructure.
+Through academic studies, hands-on projects, and practical laboratory exercises, I continuously work to strengthen my technical skills and develop a deeper understanding of secure and scalable software systems.
 
-## Technical Focus
+My goal is to build a career at the intersection of **cybersecurity and software engineering**, contributing to the development of secure, reliable, and innovative technology solutions.
+
+## 🎯 Technical Focus
 
 - **Cybersecurity:** Vulnerability Assessment, Penetration Testing, Web Application Security, Security Monitoring.
 - **Detection Engineering:** Log Analysis, SSH Brute-Force Detection, Security Event Monitoring, MITRE ATT&CK.
-- **Backend Engineering:** Python, FastAPI, Flask, REST API Development.
+- **Backend Development:** Python, FastAPI, Flask, Node.js, PHP, REST API Development.
 - **Frontend Development:** React, TypeScript, JavaScript, HTML5, CSS3.
-- **Database Engineering:** MongoDB, MongoDB Atlas, SQLite.
-- **Development Environment:** Linux, Kali Linux, Git, GitHub, Docker.
+- **Database Management:** MongoDB, SQL, SQLite, MongoDB Atlas.
+- **Development & Infrastructure:** Linux, Kali Linux, Git, GitHub, Docker.
 
-## Technical Skills
+## 💻 Technical Skills
 
 ### Programming Languages
 
@@ -45,26 +47,44 @@ My long-term goal is to grow into a **Cybersecurity and Software Engineering pro
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 </p>
 
-### Web & Backend Technologies
+### Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 </p>
 
-### Databases & Infrastructure
+### Backend Development
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+</p>
+
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+### Development Tools & Platforms
+
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 
 ### Cybersecurity Tools
@@ -78,13 +98,13 @@ My long-term goal is to grow into a **Cybersecurity and Software Engineering pro
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square">
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 1. Mini-SIEM — Security Monitoring and Threat Detection
 
 A lightweight Security Information and Event Management prototype developed with Python to monitor Linux authentication logs and identify suspicious SSH login activity.
 
-**Key capabilities:**
+**Key Features**
 - Linux authentication log collection and analysis.
 - SSH brute-force detection.
 - Security alert generation and severity classification.
@@ -98,9 +118,9 @@ A lightweight Security Information and Event Management prototype developed with
 
 ### 2. Personal Portfolio — Full-Stack Web Application
 
-A personal portfolio application designed to present my technical background, projects, and development experience through a modern frontend and a separate backend API.
+A personal portfolio application developed to showcase my technical background, projects, and development experience through a modern frontend and backend architecture.
 
-**Key technologies and components:**
+**Key Features**
 - React and TypeScript frontend.
 - Python FastAPI backend.
 - MongoDB Atlas database integration.
@@ -114,7 +134,7 @@ A personal portfolio application designed to present my technical background, pr
 - [API Documentation](https://tola-portfolio-api.onrender.com/docs)
 - [GitHub Repository](https://github.com/tola24234/tola-portfolio)
 
-## Education & Professional Development
+## 🎓 Education & Professional Development
 
 **Bachelor of Science in Computer Science**  
 Haramaya University
@@ -124,7 +144,7 @@ Haramaya University
 - Practical cybersecurity training and authorized penetration-testing laboratory exercises.
 - Continuous learning in secure software development and security engineering.
 
-## Current Learning & Development Goals
+## 📚 Current Learning Goals
 
 - Advancing security monitoring and detection engineering.
 - Improving vulnerability assessment and web application security skills.
@@ -133,28 +153,18 @@ Haramaya University
 - Learning security automation and event correlation.
 - Strengthening software architecture and backend performance.
 
-## Collaboration & Research Interests
+## 🤝 Collaboration Interests
 
-I welcome opportunities to collaborate on projects involving:
+I welcome opportunities to collaborate on:
 
-- Security monitoring and SIEM development.
+- Cybersecurity and SIEM development.
 - Threat detection and security automation.
 - Vulnerability assessment and secure application development.
 - Backend engineering and API security.
 - Open-source cybersecurity tools.
 - Practical research and software engineering projects.
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tola24234&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tola24234&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
-
-## Contact
+## 📫 Contact
 
 I am open to technical discussions, research collaborations, internship opportunities, and software development projects.
 
